@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khanhhungdoan
-- 👀 I’m interested in full-stack development, specializing in front-end coding.
-- 🌱 I’m currently learning more back-end knowledge.
+- 👀 I’m interested in software development, aiming to master both front-end and back-end.
+- 🌱 I’m currently learning more devops knowledge.
 - 💞️ I’m looking to collaborate on building and maintaining web applications.
 
 
